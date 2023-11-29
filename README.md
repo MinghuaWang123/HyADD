@@ -1,3 +1,3 @@
 # HyADD
-The code in this toolbox will be avalible when the manuscript is accepted.
-Minghua Wang, 'Simultaneous Anomaly Detection and Denoising of Hyperspectral Images: Insights from Feedback Perspective', submitted.
+The code in this toolbox will be available when the manuscript is accepted.
+Minghua Wang, et. al. 'Hyperspectral Simultaneous Anomaly Detection and Denoising: Insights from Integrative Perspective', submitted.
